@@ -1,0 +1,17 @@
+{
+  "name": "payerautomation",
+  "version": "1.0.0",
+  "description": "Mocha",
+  "main": "test1.js",
+  "scripts": {
+    "test": "mocha --timeout 80000"
+  },
+  "author": "Satish Prasad",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chromedriver": "^78.0.1",
+    "mocha": "^6.2.2",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
